@@ -1,5 +1,5 @@
 <div id="footer">
-	<p>Wordpress</p>
+	<p>Powered by Wordpress</p>
 </div>
 
 <?php wp_footer(); ?>
