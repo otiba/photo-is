@@ -1,5 +1,5 @@
 <div id="footer">
-	<p>Powered by Wordpress</p>
+	<p>Copyright &copy; 2008 otiba All Right Reserved | Powered by Wordpress</p>
 </div>
 
 <?php wp_footer(); ?>
